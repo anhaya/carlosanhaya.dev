@@ -1,8 +1,6 @@
 ---
 title: "[Go] API Rest - Clean Architecture"
 date: 2022-06-28
-# weight: 1
-# aliases: ["/first"]
 tags: ["golang", "clean architecture"]
 author: "Carlos Anhaya"
 # author: ["Me", "You"] # multiple authors

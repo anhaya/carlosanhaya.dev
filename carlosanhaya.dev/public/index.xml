@@ -5,14 +5,14 @@
     <link>https://carlosanhaya.dev/</link>
     <description>Recent content on Carlos Anhaya</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://carlosanhaya.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://carlosanhaya.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 1st post</title>
+      <title>[Go] API Rest - Clean Architecture</title>
       <link>https://carlosanhaya.dev/posts/go_sample_api/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://carlosanhaya.dev/posts/go_sample_api/</guid>
-      <description>Desc Text.</description>
+      <description>Modelo de API em Golang utilizando clean architecture</description>
     </item>
     
     

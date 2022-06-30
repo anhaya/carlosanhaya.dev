@@ -41,7 +41,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Sou programador com foco em backend
+    Content: Meu nome é Carlos, sou programador e este site nasceu em Julho 2022. Neste site irei compartilhar coisas que para mim, foram e são importantes no meu dia a dia como programador.
 
   socialIcons:
     - name: linkedin
@@ -62,9 +62,6 @@ menu:
     - name: Posts
       url: archives/
       weight: 5
-    - name: Search
-      url: search/
-      weight: 10
     - name: Tags
       url: tags/
       weight: 10
