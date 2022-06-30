@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Carlos Anhaya</title>
+    <link>https://carlosanhaya.dev/categories/</link>
+    <description>Recent content in Categories on Carlos Anhaya</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://carlosanhaya.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
