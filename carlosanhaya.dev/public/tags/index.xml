@@ -5,22 +5,31 @@
     <link>https://carlosanhaya.dev/tags/</link>
     <description>Recent content in Tags on Carlos Anhaya</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://carlosanhaya.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://carlosanhaya.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>clean architecture</title>
-      <link>https://carlosanhaya.dev/tags/clean-architecture/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <title>concurrency</title>
+      <link>https://carlosanhaya.dev/tags/concurrency/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://carlosanhaya.dev/tags/clean-architecture/</guid>
+      <guid>https://carlosanhaya.dev/tags/concurrency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
       <link>https://carlosanhaya.dev/tags/golang/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://carlosanhaya.dev/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clean architecture</title>
+      <link>https://carlosanhaya.dev/tags/clean-architecture/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlosanhaya.dev/tags/clean-architecture/</guid>
       <description></description>
     </item>
     
